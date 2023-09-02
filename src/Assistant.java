@@ -1,5 +1,4 @@
 public class Assistant extends CollegePerson implements LearningPerson, TeachingPerson{
-
     private boolean isGoingToBeAPhD;
 
     public Assistant(String name, String surname, int collegeId, boolean willBeAPhD) {

@@ -1,5 +1,4 @@
 public class Student extends CollegePerson implements LearningPerson{
-
     private int academicYear;
 
     public Student(String name, String surname, int collegeId, int academicYear) {

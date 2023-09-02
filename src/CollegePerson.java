@@ -1,5 +1,4 @@
 public class CollegePerson {
-
     private String name;
     private String surname;
     private int collegeId;

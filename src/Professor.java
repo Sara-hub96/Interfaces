@@ -1,5 +1,4 @@
 public class Professor extends CollegePerson implements TeachingPerson{
-
     private String teachingSubject;
 
     public Professor(String name, String surname, int collegeId, String teachingSubject) {
